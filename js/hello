@@ -1,0 +1,18 @@
+using system;
+using system.collection.Genric;
+using system.linq;
+using system.text;
+using system.Threading.Tasks;
+namespace firstproject
+
+{
+    class program
+    {
+        static void Main(string[] args)
+        {
+            console.writeline("hello world");
+
+        }
+    }
+    
+}
